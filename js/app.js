@@ -37,5 +37,4 @@ console.log(a);
 let b = myNumbers.pop();
 console.log(b);
 
-
-
+let gustavo = ["tecno", "warisnaque", "melvin", 27 ];
