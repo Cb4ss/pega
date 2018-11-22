@@ -38,3 +38,13 @@ let b = myNumbers.pop();
 console.log(b);
 
 let gustavo = ["tecno", "warisnaque", "melvin", 27 ];
+
+let gustavo2 = {
+    apellido: diaz,
+    edad:32,
+    musica favorita: Techno,
+    fumar(){
+        console.log("A mi me gusta fumar warisnaque!")
+    }
+
+}
