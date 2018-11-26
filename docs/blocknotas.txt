@@ -3,19 +3,19 @@
 anais.munier@cl.engie.cl
 -----------------------------------
 
-Usuarios notebooks: 
+Usuarios notebooks:
 
-Leonardo Ignacio Iturria Dellarossa 
+Leonardo Ignacio Iturria Dellarossa
 GID HM5811
 contraseña: Engie.2019
 11 de abril de 1970
 nombre equipo: CVD3GV1
 
- 
+
 Claudia Bertila San Martin Roa
  GID HM5813
 08 de octubre de 1982
- 
+
 Atte.
 JTA##
 
@@ -32,7 +32,7 @@ Gustavo arriagada ok
 Adolfo eberlein ok
 Veronica maillard ok
 Auriane jesupret ok
-Fco. Retamal ok 
+Fco. Retamal ok
 Fco. Mendez ok
 Kuen Langi ok
 Julien Colas ok
@@ -40,7 +40,7 @@ kimberly sanchez ok
 --------------------------------------
 Cola retenida
 
-revisar 
+revisar
 
 Adolfo eberlein 7136
 aaron palma (stgo o mejilloones averiguar) sin numero mandar correo
@@ -49,3 +49,5 @@ Pineda, Alejandro 3349 LLAMAR DESPUES
 asd
 qwe
 qwe
+trollolol
+asdasdsad
